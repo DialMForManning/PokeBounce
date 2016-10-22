@@ -4,7 +4,8 @@ canvas {
   background-image: url("./stars.jpg");
   margin: 50px auto;
   border-radius: 5px;
-  /*box-shadow: 0 0 500px #000;*/
+  box-shadow: 0 0 50px #fff;
+  position: relative;
   z-index: 1;
 }
 
