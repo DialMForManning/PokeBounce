@@ -1,4 +1,24 @@
 canvas {
+  display: block;
   background-size: cover;
   background-image: url("./stars.jpg");
+  margin: 50px auto;
+  border-radius: 5px;
+  /*box-shadow: 0 0 500px #000;*/
+  z-index: 1;
+}
+
+.vertical {
+  cursor: ns-resize;
+}
+
+.horizontal {
+  cursor: ew-resize;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-image: url("./background.jpg");
 }
