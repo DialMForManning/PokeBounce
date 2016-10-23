@@ -3,7 +3,7 @@ canvas {
   background-size: cover;
   background-image: url("./stars.jpg");
   margin: 50px auto;
-  border-radius: 5px;
+  border-radius: 12px;
   box-shadow: 0 0 50px #fff;
   position: relative;
   z-index: 1;
