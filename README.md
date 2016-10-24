@@ -1,5 +1,5 @@
 # JazzBall
-[JazzBall live](https://www.alink2ThePast.com/JazzBall)
+[JazzBall live](http://www.alink2ThePast.com/JazzBall)
 
 ## Background
 JazzBall is a single player dynamic area capture game built using Javascript (with EaselJS), HTML, and CSS. The player must capture areas of a rectangular playing field containing atoms which bounce around within the space.
