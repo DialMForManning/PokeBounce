@@ -49,6 +49,7 @@ canvas {
   margin: 50px auto 20px auto;
   box-shadow: 0 0 50px #fff;
   position: relative;
+  border-radius: 10px;
   z-index: 1;
 }
 
