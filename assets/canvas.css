@@ -1,7 +1,7 @@
 canvas {
   display: block;
   background-size: cover;
-  background-image: url("./stars.jpg");
+  background-image: url("./canvas_back.jpg");
   margin: 50px auto;
   border-radius: 12px;
   box-shadow: 0 0 50px #fff;
@@ -21,5 +21,5 @@ body {
   width: 100vw;
   height: 100vh;
   background-size: cover;
-  background-image: url("./background.jpg");
+  background-image: url("./background.png");
 }
