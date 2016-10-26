@@ -45,7 +45,7 @@ group:before {
 canvas {
   display: block;
   background-size: cover;
-  background-image: url("./canvas_back.jpg");
+  background-image: url("./images/canvas_back.jpg");
   margin: 50px auto 20px auto;
   box-shadow: 0 0 50px #fff;
   position: relative;
@@ -65,5 +65,5 @@ body {
   width: 100vw;
   height: 100vh;
   background-size: cover;
-  background-image: url("./background.png");
+  background-image: url("./images/background.png");
 }
