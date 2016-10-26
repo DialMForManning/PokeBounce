@@ -1,8 +1,11 @@
-# JazzBall
-[JazzBall live](http://www.alink2ThePast.com/JazzBall)
+# PokeBounce
+[PokeBounce live](http://www.playpokebounce.com)
+
+![](assets/title.png)
+![](assets/gameplay.png)
 
 ## Background
-JazzBall is a single player dynamic area capture game built using Javascript (with EaselJS), HTML, and CSS. The player must capture areas of a rectangular playing field containing atoms which bounce around within the space.
+PokeBounce is a single player dynamic area capture game built using Javascript (with EaselJS), HTML, and CSS. The player must capture areas of a rectangular playing field containing atoms which bounce around within the space.
 
 ## How to Play
 Players can initiate building a wall by clicking the desired start location for that wall. Once initiated, the wall will begin to build in both directions from the click point. When each section of the wall reaches the edge of the playing field, it becomes solid and the atoms can now bounce off it. However, if an atom collides with either section of the wall before it is finished being built the entire wall section will disappear and the player will lose a life. If a section of the playing field is completely walled off contains no atoms, that section will automatically fill in with wall. Right clicking (or pressing spacebar), toggles the cursor to indicate whether a vertical or horizontal wall will be built on click.
