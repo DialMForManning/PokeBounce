@@ -1,9 +1,52 @@
+ul, a, li, i, canvas{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font: inherit;
+  box-sizing: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  vertical-align: inherit;
+  color: inherit;
+  background: transparent;
+}
+
+ul {
+  list-style: none;
+  margin: 0 auto;
+  width: 640px;
+  text-shadow: 0 0 1px #eee;
+}
+
+ul a {
+  font-size: 20px;
+  padding: 5px;
+  display: inline-block;
+  background-color: #D2B48C;
+  font-family: sans-serif;
+  font-weight: 600;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #000;
+  color: #006400;
+}
+
+ul li {
+  float:left;
+  padding-left: 10px;
+}
+
+group:before {
+  content: "";
+  clear: both;
+  display: block;
+}
+
 canvas {
   display: block;
   background-size: cover;
   background-image: url("./canvas_back.jpg");
-  margin: 50px auto;
-  border-radius: 12px;
+  margin: 50px auto 20px auto;
   box-shadow: 0 0 50px #fff;
   position: relative;
   z-index: 1;
