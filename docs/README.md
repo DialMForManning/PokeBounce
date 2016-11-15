@@ -44,7 +44,7 @@ The following scripts will be necessary:
 
 ## Phase 2: Collision logic, wall interruption, countdown timer, and lives counter.
 
-**Objective:** Atoms properly respond to collisions with each other and with newly completed walls. When an atom collides with a wall in progress, it is destroyed and the remaining number of lives is decremented.
+**Objective:** Pokeballs properly respond to collisions with each other and with newly completed walls. When an atom collides with a wall in progress, it is destroyed and the remaining number of lives is decremented.
 
 [ ] Implement the detection of collisions
 [ ] Calculate the resulting velocity vectors for two colliding atoms.
